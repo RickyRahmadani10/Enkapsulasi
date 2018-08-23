@@ -12,8 +12,8 @@ package BiodataKeluarga;
 public class Tampilan {
     public static void main(String[] args){
         Ricky keluarga = new Ricky();
-        keluarga.setNamaAyah("S");
-        keluarga.setNamaIbu ("S");
+        keluarga.setNamaAyah("Sudarmaji");
+        keluarga.setNamaIbu ("Sri Haryati");
         keluarga.setNamaSendiri ("Ricky");
         keluarga.setNamaSaudara ("-");
         keluarga.setAlamat ("Jl. Sembilang 7/10A");
